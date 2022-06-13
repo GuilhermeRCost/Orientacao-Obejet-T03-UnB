@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc9146fe-5f21-4bde-99ce-9de7ccffca97" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula02/lista01/Baskara.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula02/lista01/Caracter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula02/lista01/Compras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula02/lista01/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula02/lista01/Numero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula02/lista01/NumeroPrimo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula02/lista01/Serie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula02/lista01/UsuarioESenha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula02/lista01/VelocidadeMaxima.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AWNjwbvlJUfDv2Chst8linv4zX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/AC Tecnologia/Documents/Orientação a Objeto/Aulas/exercicios/src/aula02/lista01"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc9146fe-5f21-4bde-99ce-9de7ccffca97" name="Changes" comment="" />
+      <created>1655121521465</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655121521465</updated>
+      <workItem from="1655121524174" duration="198000" />
+      <workItem from="1655121852590" duration="143000" />
+      <workItem from="1655122038390" duration="326000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
