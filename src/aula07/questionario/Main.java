@@ -1,3 +1,5 @@
+package aula07.questionario;
+
 import java.util.Locale;
 import java.util.Scanner;
 import aula07.questionario.Ticket;
